@@ -1,15 +1,3 @@
-https://hafele-home.net.vn/admincs
-ID: adminmrbinh
-Pass: 
-	m)&l!$zr*29ucaU^SP6va)P
-	0934493391q
-	
-	
-1) footer làm thành icon dạng fixed 
-2) header menu mini khi mà lăn scrollbar 
-
-
-
 <div align="center">
     <h1>Dependency Injection</h1>
     <ul type="square" align="left">
